@@ -1,0 +1,10 @@
+info: GET en ruta /error
+fatal: fatal
+error: error
+warning: Warning
+http: GET en ruta /testlogs
+fatal: fatal
+error: error
+info: info
+warning: Warning
+debug: debug
